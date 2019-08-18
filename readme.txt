@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick.
 dev modified git stash
-远程修改123 123
+远程修改123 123 
+tag test
 
